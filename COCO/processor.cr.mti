@@ -1,0 +1,211 @@
+E:/COCO/CP0.v {1 {vlog -work work -vopt -nocovercells E:/COCO/CP0.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module CP0
+
+Top level modules:
+	CP0
+
+} {} {}} E:/COCO/Flip_Flop.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Flip_Flop.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} E:/COCO/MultDiv.v {1 {vlog -work work -vopt -nocovercells E:/COCO/MultDiv.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module MulDiv
+
+Top level modules:
+	MulDiv
+
+} {} {}} E:/COCO/Extension.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Extension.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Extension
+
+Top level modules:
+	Extension
+
+} {} {}} E:/COCO/Processor.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Processor.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} E:/COCO/MemExt.v {1 {vlog -work work -vopt -nocovercells E:/COCO/MemExt.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module MemExtion
+
+Top level modules:
+	MemExtion
+
+} {} {}} E:/COCO/Processor&B&misc.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Processor&B&misc.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module syst
+
+Top level modules:
+	syst
+
+} {} {}} E:/COCO/Mainctrl.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Mainctrl.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Mainctrl
+
+Top level modules:
+	Mainctrl
+
+} {} {}} E:/COCO/Vector.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Vector.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Vector
+
+Top level modules:
+	Vector
+
+} {} {}} E:/COCO/Controller.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Controller.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} E:/COCO/Mux3.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Mux3.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} E:/COCO/LED.v {1 {vlog -work work -vopt -nocovercells E:/COCO/LED.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module LED
+
+Top level modules:
+	LED
+
+} {} {}} E:/COCO/Shifter.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Shifter.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} E:/COCO/RegisterFlie.v {1 {vlog -work work -vopt -nocovercells E:/COCO/RegisterFlie.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} E:/COCO/ModuleTest.v {1 {vlog -work work -vopt -nocovercells E:/COCO/ModuleTest.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module t
+
+Top level modules:
+	t
+
+} {} {}} E:/COCO/Mux4.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Mux4.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} E:/COCO/AluDec.v {1 {vlog -work work -vopt -nocovercells E:/COCO/AluDec.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Aludec
+
+Top level modules:
+	Aludec
+
+} {} {}} E:/COCO/mux5.v {1 {vlog -work work -vopt -nocovercells E:/COCO/mux5.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module mux5
+
+Top level modules:
+	mux5
+
+} {} {}} E:/COCO/DataExtension.v {1 {vlog -work work -vopt -nocovercells E:/COCO/DataExtension.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module DataExtension
+
+Top level modules:
+	DataExtension
+
+} {} {}} E:/COCO/InstructionRegister.v {1 {vlog -work work -vopt -nocovercells E:/COCO/InstructionRegister.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module InstructionRegister
+
+Top level modules:
+	InstructionRegister
+
+} {} {}} E:/COCO/DadaPath.v {1 {vlog -work work -vopt -nocovercells E:/COCO/DadaPath.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} E:/COCO/ProcessorTest.v {1 {vlog -work work -vopt -nocovercells E:/COCO/ProcessorTest.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Ptest
+
+Top level modules:
+	Ptest
+
+} {} {}} E:/COCO/ProgramCounter.v {1 {vlog -work work -vopt -nocovercells E:/COCO/ProgramCounter.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} E:/COCO/DataMem.v {1 {vlog -work work -vopt -nocovercells E:/COCO/DataMem.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} E:/COCO/InstructionMem.v {1 {vlog -work work -vopt -nocovercells E:/COCO/InstructionMem.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module InsMem
+
+Top level modules:
+	InsMem
+
+} {} {}} E:/COCO/Timer.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Timer.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module Timer
+
+Top level modules:
+	Timer
+
+} {} {}} E:/COCO/SystemBridge.v {1 {vlog -work work -vopt -nocovercells E:/COCO/SystemBridge.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module SysBridge
+
+Top level modules:
+	SysBridge
+
+} {} {}} E:/COCO/ALU.v {1 {vlog -work work -vopt -nocovercells E:/COCO/ALU.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} E:/COCO/Mux8.v {1 {vlog -work work -vopt -nocovercells E:/COCO/Mux8.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module mux8
+
+Top level modules:
+	mux8
+
+} {} {}} E:/COCO/MUX.v {1 {vlog -work work -vopt -nocovercells E:/COCO/MUX.v
+Model Technology ModelSim SE vlog 6.5e Compiler 2010.02 Feb 26 2010
+-- Compiling module MUX2
+
+Top level modules:
+	MUX2
+
+} {} {}}
